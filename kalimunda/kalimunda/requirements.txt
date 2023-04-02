@@ -1,0 +1,7 @@
+Functionalities of the application
+User Registration we create a super user who registers other users
+login and logout
+index page or landing pagestock
+sales report
+stock listing> products
+Reciepts
